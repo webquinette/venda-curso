@@ -1,0 +1,45 @@
+*{
+    margin:0;
+}
+
+body{
+    
+    background-image: url(imagens/fundo.png);
+background-size: cover;
+color: white;
+overflow: hidden;
+
+
+}
+
+.fundo{
+    background-color: rgba(0, 0, 0, 0.616);
+    text-align: center;
+    padding-top: 200px;
+    height: 100vh;
+}
+
+.subtitulo{
+    font-size: 20px;
+    font-weight: boldo; /*negrito*/
+    font-family: 'Trebuchet MS';
+letter-spacing: 1px; /*espaçamento das letras*/
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.titulo{
+    font-size: 70px;
+    font-weight: boldo; /*negrito*/
+    font-family: 'Trebuchet MS';
+letter-spacing: 1px; /*espaçamento das letras*/
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.destaque{ 
+    color:black;
+    background-color: white;
+    width: 400px;
+    text-align: center;
+}
